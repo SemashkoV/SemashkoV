@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SemashkoV
 - 👀 I’m interested in knowledge!
-- 🌱 I’m currently learning JS + C#
+- 🌱 I’m currently learning C#, .NET and actualy ASP.NET
 - 💞️ If you are looking my page I’d like to collaborate w/ you!
 
 <!---
